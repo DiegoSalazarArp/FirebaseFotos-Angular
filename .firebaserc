@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-32ac2": {
+      "hosting": {
+        "fotosFirebase": [
+          "fir-fotos-32ac2"
+        ]
+      }
+    }
+  }
+}
